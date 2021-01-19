@@ -20,18 +20,29 @@ To create a design for a queue data structure, as well as a list data structure 
   - Enqueue 
   - Front 
   - Rear
+
 - Peek
+
 - isfull
+
 - isempty 
+
 - Derived Data
 
 List(Linked) Data Structure- 
+
 -Add new elements
+
 -Remove Elements
+
 -Insert(Element, Index)
+
 -Get(Index)
+
 -Tail
+
 -Head
+
 -Derived Data
 
 ## Tools, Targets, Backup Plan:
