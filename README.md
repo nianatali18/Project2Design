@@ -12,7 +12,9 @@ To create a design for a queue data structure, as well as a list data structure 
  Queue Data Structure - 
 
 - First in first out
+
 - Removes the item that has least recently been added(from Rear)
+
 - Performs all four queue operations 
   - Dequeue 
   - Enqueue 
